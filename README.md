@@ -1,7 +1,6 @@
-# curso-teste-performance-k6
 
 
-Scripts utilizados nas aula do curso de testes de performance com K6
+
 
 # 📌 Teste de performance com Grafana k6
 
@@ -58,7 +57,7 @@ Consulte a seção de `devDependencies` do arquivo [`package.josn`](./package.js
 Obrigado a meus gatos que me ajudaram a codar.
 
 Agradeço ao https://github.com/marlo2222 pelo curso.
-
+Scripts utilizados nas aula do curso de testes de performance com K6
 ___
 
 ⌨️ com ❤️ por [Paulo Victor](https://gist.github.com/Paru369) 🔎 🐛
