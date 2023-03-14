@@ -4,7 +4,6 @@
 
 # 📌 Teste de performance com Grafana k6
 
-Scripts do curso
 
 ## Tipos de teste
 
